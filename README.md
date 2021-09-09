@@ -5,3 +5,8 @@
 Jupyter Notebook and assets to accompany the "Fixed-point DSP for Data Scientists" blog post by [Sandeep Mistry](https://github.com/sandeepmistry) and [Henri Woodcock](https://github.com/henriwoodcock).
 
 ![Audio Wave forms and spectrograms](images/wave_and_spectrogram_med_res.gif)
+
+---
+
+Disclaimer: This is not an official Arm product.
+
