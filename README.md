@@ -6,6 +6,10 @@ Jupyter Notebook and assets to accompany the ["Fixed-point DSP for Data Scientis
 
 ![Audio Wave forms and spectrograms](images/wave_and_spectrogram_med_res.gif)
 
+## License
+
+[Apache-2.0 License](LICENSE)
+
 ---
 
 Disclaimer: This is not an official Arm product.
